@@ -1,0 +1,9 @@
+2017-12-19 09:13:01.453 MST [6950] LOG:  listening on IPv6 address "::1", port 5432
+2017-12-19 09:13:01.453 MST [6950] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2017-12-19 09:13:01.454 MST [6950] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2017-12-19 09:13:01.494 MST [6951] LOG:  database system was interrupted; last known up at 2017-11-17 11:34:29 MST
+2017-12-19 09:13:01.574 MST [6951] LOG:  database system was not properly shut down; automatic recovery in progress
+2017-12-19 09:13:01.578 MST [6951] LOG:  redo starts at 0/17B7800
+2017-12-19 09:13:01.578 MST [6951] LOG:  invalid record length at 0/17B78E0: wanted 24, got 0
+2017-12-19 09:13:01.578 MST [6951] LOG:  redo done at 0/17B78A8
+2017-12-19 09:13:01.589 MST [6950] LOG:  database system is ready to accept connections
